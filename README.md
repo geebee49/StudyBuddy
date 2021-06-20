@@ -14,3 +14,5 @@ The Online class era hasnt gone easy on a student's life. This is an application
 
 The idea behind StudyBuddy is to build a user-friendly app that helps students manage their work appropriately, providing them with reminders of the work he/she is supposed to complete. The notifications and reminders are sent in an informal language, so as to make the students feel comfortable and stress-free. Initially, the user is asked to log in to the app, so as to store the data with respect to the account. Upon logging in, the student has features to set their own time table according to the subjects they study, the assigments they have to complete along with its due date, and also any upcoming exams for which they have to prepare. The app then sends gentle reminders, so as to inform the students of the upcoming activities and help them stay up to date. 
 
+<h2>Languages Used</h2>
+Dart
