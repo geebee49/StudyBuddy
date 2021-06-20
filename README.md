@@ -1,4 +1,5 @@
-# StudyBuddy
+
+<h1>StudyBuddy</h1>
 
 The Online class era hasnt gone easy on a student's life. This is an application that helps students organise their time schedule and manage their assignments and other workload.
 
@@ -8,13 +9,15 @@ The Online class era hasnt gone easy on a student's life. This is an application
     <li> As to whether you have attended the class or not, the app tracks your attendance.</li>
     <li> The App provides a feature to have a to-do list on the pending assigments, and thus notify the students through gentle reminders.</li>
     <li>Upcoming Exam Schedules can also be uploaded, along with the portions so that students can reduce their workload by setting study-goals for each day.</li>
+    <li>Youtube recommendations are provided based on the topics taught in class.</li>
   </ol>
 
 <h2> Working </h2>
 
-The idea behind StudyBuddy is to build a user-friendly app that helps students manage their work appropriately, providing them with reminders of the work he/she is supposed to complete. The notifications and reminders are sent in an informal language, so as to make the students feel comfortable and stress-free. Initially, the user is asked to log in to the app, so as to store the data with respect to the account. Upon logging in, the student has features to set their own time table according to the subjects they study, the assigments they have to complete along with its due date, and also any upcoming exams for which they have to prepare. The app then sends gentle reminders, so as to inform the students of the upcoming activities and help them stay up to date. 
+The idea behind StudyBuddy is to build a user-friendly app that helps students manage their work appropriately, providing them with reminders of the work he/she is supposed to complete. The notifications and reminders are sent in an informal language, so as to make the students feel comfortable and stress-free. Initially, the user is asked to log in to the app, so as to store the data with respect to the account. Upon logging in, the student has features to set their own time table according to the subjects they study, the assigments they have to complete along with its due date, and also any upcoming exams for which they have to prepare. The app then sends gentle reminders, so as to inform the students of the upcoming activities and help them stay up to date. Also, after the completion of the class , the student is provided with a feature to make a note of the topics covered in that session. This information is then used to supply the students with some recommended videos from Youtube to make the students comfortable with the topic.
 
 <h2>Languages Used</h2>
-<ol>
+<ul>
   <li>Dart
-</ol>
+  <li>Python</li>
+</ul>
