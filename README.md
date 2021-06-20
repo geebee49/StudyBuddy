@@ -1,6 +1,6 @@
 # StudyBuddy
 
-The Online class era hasnt gone easy on a student's life. This is an application that helps students to organise their time schedule and manage their assignments and other workload.
+The Online class era hasnt gone easy on a student's life. This is an application that helps students organise their time schedule and manage their assignments and other workload.
 
 <h2>What it does?</h2>
   <ol>
